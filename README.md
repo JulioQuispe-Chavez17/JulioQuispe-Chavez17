@@ -1,6 +1,5 @@
 ### Bienvenido a mi GitHub 👋
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Julio Cesar!
-![Linkedin Follow](https://www.linkedin.com/in/julio-cesar-quispe-chavez-19977b192/)
 
 
 🧰 Toolbox
